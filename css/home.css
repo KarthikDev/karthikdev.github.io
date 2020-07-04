@@ -1,0 +1,9 @@
+#header {
+    background-color: #df2e43;
+}
+#header img {
+    float: right;
+    width: 100px;
+    height: 100px;
+    background: rgb(248, 245, 245);
+  }
